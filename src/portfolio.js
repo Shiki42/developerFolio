@@ -170,7 +170,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
